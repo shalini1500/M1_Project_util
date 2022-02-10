@@ -1,8 +1,8 @@
 # High Level Test Plan
-* 	  Description	                        Input	                Expected output	         Actual Output
-01   Check patient                         123 (aadhar no)	                                 not found
-02	Check patient registration status	   100 (aadhar no)	                                  (found)
-03	Check patient vaccination status	   89 (patient id)	                                (vaccinated)
+* 	  Description	                         Input	              	         Actual Output
+* 01   Check patient                          123 (aadhar no)	               not found
+* 02	Check patient registration status	     100 (aadhar no)	                 (found)
+* 03	Check patient vaccination status	      89 (patient id)	               (vaccinated)
 
 
 # Low Level Test Plan
