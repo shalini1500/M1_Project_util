@@ -24,7 +24,7 @@ int main()
 
 // Test functions
 void test_regist_status(void) {
-  TEST_ASSERT_EQUAL(-1, regist_status(123));
+  TEST_ASSERT_EQUAL(-1, regist_status(121));
   
   TEST_ASSERT_EQUAL(-1, regist_status(150)); // Fail condition
 }
