@@ -1,12 +1,8 @@
 # M1_Project_util
 
 ## code badges
-|Build|cppcheck|Valgrind|Codacy|Quality Score
-|:--:|:--:|:--:|:--:|:--:|
-|![C/C++ CI](https://github.com/shalini1500/M1_Project_util.git/actions/workflows/build.yml/badge.svg)|[![cppcheck]
-(https://github.com/shalini1500/M1_Project_util.git/actions/workflows/cpp.yml/badge.svg)]
-(https://github.com/shalini1500/M1_Project_util.git/actions/workflows/cpp.yml)|![Valgrind]
-(https://github.com/shalini1500/M1_Project_util.git/actions/workflows/Valgrind.yml/badge.svg)|![Codacy](https://api.codiga.io/project/30962/status/svg)|![Quality_Score](https://api.codiga.io/project/30962/score/svg)
+![code quality score](https://api.codiga.io/project/31112/score/svg)
+![quality grade](https://api.codiga.io/project/31112/status/svg)
 
 
 ## Aim
