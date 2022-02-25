@@ -1,8 +1,8 @@
 # M1_Project_util
 
 ## code badges
-![code quality score](https://api.codiga.io/project/31112/score/svg)
-![quality grade](https://api.codiga.io/project/31112/status/svg)
+![code quality score](https://api.codiga.io/project/31462/score/svg)
+![quality grade](https://api.codiga.io/project/31462/status/svg)
 
 
 ## Aim
