@@ -3,7 +3,7 @@
 ## code badges
 ![code quality score](https://api.codiga.io/project/31587/score/svg)
 ![quality grade](https://api.codiga.io/project/31587/status/svg)
-
+[![CI](https://github.com/shalini1500/M2_EmbSys/actions/workflows/blank.yml/badge.svg)](https://github.com/shalini1500/M2_EmbSys/actions/workflows/blank.yml)
 
 ## Aim
 * Smoother vaccination registration process
